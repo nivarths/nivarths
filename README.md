@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sivansh Nivarthi</h1>
+<h1 align="center">Hi👋, I'm Sivansh Nivarthi</h1>
 <h3 align="center">A passionate engineer from Canada</h3>
 
 - 🌱 I’m currently learning **Java**
