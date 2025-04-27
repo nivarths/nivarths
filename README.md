@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sivansh Nivarthi</h1>
 <h3 align="center">A passionate engineer from Cambridge, Ontario, Canada</h3>
 
-- 🔭 I’m currently working on [Space Invaders](https://github.com/nivarths/space-invaders)
+- 🔭 I’m currently working on a [Digital Record Player](https://github.com/nivarths/digital-record-player)
 
 - 🌱 I’m currently learning **Java**
 
